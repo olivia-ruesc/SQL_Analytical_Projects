@@ -6,7 +6,7 @@ The work in this repository highlights both foundational database theory and app
 ---
 
 ## Repository Structure
-### RLI Reinsurance SQL Demo
+### RLI Industry Work Demo
 This project demonstrates a fully renamed and sanitized recreation of SQL workflows inspired by internship experience working with insurance and reinsurance product reporting.
 
 #### Key Highlights
@@ -38,7 +38,7 @@ This project highlights full database lifecycle development from conceptual mode
 
 ---
 ## Skills Demonstrated
-####Database Design and Architecture
+#### Database Design and Architecture
 - Relational schema development
 - Data modeling and normalization
 - ER diagram creation
