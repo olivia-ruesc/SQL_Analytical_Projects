@@ -1,12 +1,17 @@
-// Olivia Rueschhoff
-// CS 470 Oracle Lab 4
+/*
+ This Program connects to an SQL database so individuals who may not know SQL can still update,
+ add to, and delete data from a table. 
+ This demonstraits database knowledge, data-pipelining, schema understanding, and data workflow thinking.
+ 
+ Author: Olivia Rueschhoff
+ */
 
 import java.sql.*;
 import java.io.*;
 import java.util.*;
 
 
-public class OracleLab4JDBC{
+public class Java_Database_Integration{
    
    static Connection conn;
    static Statement stmt;
@@ -190,4 +195,5 @@ public class OracleLab4JDBC{
          System.out.println("Error updating patient: " + e.getMessage());
       }
    }
+
 }
